@@ -1,0 +1,24 @@
+{
+  "name": "gulp-environment",
+  "version": "0.0.0",
+  "description": "Basic starter project with gulp, browser-sync, sass and js concatenation.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kryštof Kosina",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^1.3.7",
+    "gulp": "^3.8.8",
+    "gulp-autoprefixer": "1.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^2.1.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "browsersync"
+  ]
+}
